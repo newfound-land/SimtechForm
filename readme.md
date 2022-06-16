@@ -156,9 +156,9 @@ $password="some_password";
 ## Дополнительная информация  
 Проект сожно скачать по ссылке:
 
-[Github_Simtech](https://github.com/newfound-land/Simtech)
+[Github_Simtech](https://github.com/newfound-land/SimtechForm)
 
 
   ```
-  git clone https://github.com/newfound-land/Simtech.git
+  git clone https://github.com/newfound-land/SimtechForm.git
   ```
